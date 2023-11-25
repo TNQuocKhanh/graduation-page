@@ -88,6 +88,7 @@ MyDocument.getInitialProps = async (ctx: DocumentContext) => {
       ) =>
         function EnhanceApp(props) {
           // console.log('props ->', props)
+           {/* @ts-expect-error Server Component */}
           return <App emotionCache={cache} {...props} />
         },
     })
