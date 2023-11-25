@@ -35,6 +35,7 @@ const App: FC<AppPropsWithLayout> = (props: AppPropsWithLayout) => {
       <MUIProvider>
         {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
         <CssBaseline />
+        {/* @ts-expect-error Server Component */}
         {getLayout(<Component {...pageProps} />)}
       </MUIProvider>
     </CacheProvider>
