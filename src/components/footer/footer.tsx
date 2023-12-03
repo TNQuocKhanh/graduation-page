@@ -32,7 +32,7 @@ const Footer: FC = () => {
           }}
         >
           <Typography variant="h5" color="initial">
-            Copyright ©2023 CuteK aka QuocKhanh
+            Copyright ©2023 CuteK aka QK (QuocKhanh)
           </Typography>
         </Box>
         <Box
