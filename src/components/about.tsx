@@ -18,7 +18,7 @@ const images = [
     imgPath: '/images/bg1.png',
   },
   {
-    label: 'My Important Event',
+    label: 'My Day',
     imgPath: '/images/bg2.png',
   },
   {

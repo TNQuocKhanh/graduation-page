@@ -157,7 +157,7 @@ const HomeHero: FC = () => {
               <Image
                 src="/images/hero.png"
                 width={775}
-                height={787}
+                height={900}
                 alt="Hero img"
               />
             </Box>
@@ -228,7 +228,7 @@ const HomeHero: FC = () => {
                         </Typography>
                       </Box>
                       <Box>
-                        <Typography variant="h4">10:30am-1pm</Typography>
+                        <Typography variant="h4">11am-1pm</Typography>
                       </Box>
                       <Box>
                         <Typography variant="h4">4:30pm-6pm</Typography>
