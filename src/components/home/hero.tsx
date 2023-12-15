@@ -231,7 +231,7 @@ const HomeHero: FC = () => {
                         <Typography variant="h4">11am-1pm</Typography>
                       </Box>
                       <Box>
-                        <Typography variant="h4">4:30pm-6pm</Typography>
+                        <Typography variant="h4">4:30pm-5:30pm</Typography>
                       </Box>
                     </Grid>
                     <Grid item xs={12} md={2}>
