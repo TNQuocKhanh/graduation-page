@@ -155,9 +155,9 @@ const HomeHero: FC = () => {
             {/* Sertificate badge */}
             <Box sx={{ lineHeight: 0 }}>
               <Image
-                src="/images/hero.png"
-                width={775}
-                height={900}
+                src="/images/hcmute-bg.jpeg"
+                width={600}
+                height={500}
                 alt="Hero img"
               />
             </Box>
